@@ -1,6 +1,6 @@
 function Resume() {
   return (
-    <>
+    <div id="resume">
       <h1>Resume</h1>
 
       <h1>Professional Experience</h1>
@@ -75,7 +75,7 @@ function Resume() {
         </ul>
 
       <p>link to resume</p>
-    </>
+    </div>
   )
 }
 

@@ -1,0 +1,24 @@
+
+.navoptions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logoImgLeft {
+  height: 18%;
+  max-width: 18%;
+  padding-left: 10px;
+}
+
+.aboutnav, .resumenav, .projectsnav, .contactnav {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  text-decoration: none;
+  color: black; 
+  padding-right: 40px;
+}
+
+.aboutnav:hover, .resumenav:hover, .projectsnav:hover, .contactnav:hover {
+  color: 
+  #99d1d3;
+}

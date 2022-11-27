@@ -3,12 +3,12 @@ import ProjectsList from "../../components/ProjectList/ProjectList"
 
 function Projects() {
   return (
-    <>
-      <h1>Projects</h1>
+    <div id="projects">
+      <h1>My Work</h1>
       <div>
         <ProjectsList projects={projects} />
       </div>
-    </>
+    </div>
   )
 }
 
