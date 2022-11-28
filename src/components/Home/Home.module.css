@@ -9,3 +9,7 @@
 .welcome:hover {
   color: #99d1d3;
 }
+
+#animationDiv{
+  animation-duration: 7s;
+}

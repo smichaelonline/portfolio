@@ -5,6 +5,7 @@ import Home from '../components/Home/Home';
 import Resume from '../components/Resume/Resume';
 import NavBar from '../components/NavBar/NavBar';
 
+
 const Main = (props) => {
   return (
     <>
