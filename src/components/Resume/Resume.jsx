@@ -19,7 +19,7 @@ function Resume() {
           <h2 className={styles.org}>General Assembly - Software Engineering Immersive Fellow</h2>
           <h5 className={styles.location}>Location: Remote</h5>
           
-          <p>Successfully completed 500+ hours of expert-led instruction in JavaScript, Python, React as well as other programs as well as  hands-on learning of web and mobile application fundamentals and the industry's most in demand technologies. Developed projects, including:</p>
+          <p>Successfully completed 500+ hours of expert-led instruction in JavaScript, Python, React as well as other programs as well as  hands-on learning of web and mobile application fundamentals and the industry's most in demand technologies. Developed projects using React, Javascript, Python, Django, Node.js, Express, PostgreSQL, among other technologies.</p>
         </div>
       </div>
 
