@@ -23,3 +23,7 @@
   margin-top: 30px;
   padding-left: 50px;
 }
+
+.handleGH:hover, .handleLI:hover, .handleEmail:hover {
+  color: #99d1d3;
+}
