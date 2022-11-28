@@ -1,14 +1,11 @@
-import { Link } from "react-router-dom";
-import hyphenateWords from "../../utilities/hyphenateWords";
-
 const ProjectPreview = ({project}) => {
-  const path = hyphenateWords(project.title)
   return (
       <div>
         <section>
           <h3>{project.title}</h3>
-          <Link to={path}>Learn More</Link>
+          <h5>{project.description}</h5>
           <a href={project.repositoryLink}>Github Repo</a>
+          <a href={project.deploymentLink}> Link to Site</a>
         </section>
       </div>
   );

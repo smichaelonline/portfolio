@@ -3,6 +3,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap; 
 }
 
 .logoImgLeft {
@@ -15,10 +16,9 @@
   font-family: 'Plus Jakarta Sans', sans-serif;
   text-decoration: none;
   color: black; 
-  padding-right: 40px;
+  padding-right: 50px;
 }
 
 .aboutnav:hover, .resumenav:hover, .projectsnav:hover, .contactnav:hover {
-  color: 
-  #99d1d3;
+  color: #99d1d3;
 }

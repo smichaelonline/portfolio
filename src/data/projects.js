@@ -12,14 +12,8 @@ const projects = [
     deploymentLink:"https://cgcorelocate.netlify.app/"
   },
   {
-    title:"NYC Rat Collector",
-    description:"A Django/Python app to collect all your New York City Rat sightings like Pizza Rat.",
-    repositoryLink:"https://github.com/smichaelonline/nyc-rat-collector",
-    deploymentLink:""
-  },
-  {
     title:"My Lil' Goblin - a Small Friend Simulator",
-    description:"A Django/Python app to collect all your New York City Rat sightings like Pizza Rat.",
+    description:"A simple Javascript game where the user helps a little goblin meet its needs for the potential to have a lifelong friend.",
     repositoryLink:"https://github.com/smichaelonline/My-lil-goblin",
     deploymentLink:"https://my-lil-goblin.netlify.app/"
   },

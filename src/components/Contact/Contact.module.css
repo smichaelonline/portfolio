@@ -1,0 +1,10 @@
+.contact:hover {
+  color: #e56f25;
+}
+
+.contact{
+  font-family: 'General Sans', sans-serif;
+  margin-bottom: 10px;
+  text-align: left;
+  padding-left: 40px; 
+}
