@@ -1,3 +1,49 @@
 .projectTitle {
-  
+  font-family: 'General Sans', sans-serif;
+  font-size: 28px;
+  font-style: italic;
 }
+
+.projectTitle:hover {
+  color: #e56f25;
+}
+
+.projectInfo {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 18px;
+}
+
+.projectTitle, .projectInfo {
+  margin-left: 750px;
+  padding-right: 30px;
+}
+
+.allInfo {
+  margin-bottom: 15%;
+}
+
+.projectGH, .projectLink {
+  padding: 20px;
+  border-radius: 89px;
+  background: linear-gradient(225deg, #a4e0e2, #8abcbe);
+  box-shadow: 6px 5px 9px lightgray;
+  margin: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  color: white
+}
+
+.buttonDiv {
+  display: flex;
+  justify-content: center;
+}
+
+.projectGH:hover, .projectLink:hover {
+  background: linear-gradient(225deg, #e56f25, #c25e1f);
+  box-shadow: 6px 5px 9px darkgray;
+} 
+
+.projectImg {
+  float: left; 
+}
+

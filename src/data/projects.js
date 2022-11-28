@@ -2,7 +2,7 @@ const projects = [
   {
     title:"Safe Space",
     description:"A mobile-only MEN stack CRUD app that fosters a space where people can journal how their day is going and find a support system.",
-    image:"./projects/safe-space-banner.png",    
+    image:"./projects/safe-space-banner.png",   
     repositoryLink:"https://github.com/smichaelonline/safe-space",
     deploymentLink:"https://safe-space-journal-and-community.fly.dev/"
   },

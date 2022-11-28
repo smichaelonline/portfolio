@@ -31,6 +31,10 @@
   margin-bottom: 40px;
 }
 
+.time, .location{
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
 .time, .org, .location, .degree {
   margin: 5px;
 }
